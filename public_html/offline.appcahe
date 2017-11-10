@@ -1,0 +1,23 @@
+CACHE MANIFEST:
+
+#Core de Jquery
+
+jqm/jquery-1.11.1.min.js
+jqm/jquery.js
+jqm/jquery.min.js
+jqm/jquery.mobile-1.4.3.min.css
+jqm/jquery.mobile-1.4.3,min.js
+jqm/images/ajax-loader.gif
+
+#Archivos de la aplicacion
+
+aplicar.html
+casa.html
+eliminar.html
+peine.html
+piojos.html
+repetir.html
+
+#Estilos
+
+estilo.css
